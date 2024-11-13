@@ -17,7 +17,7 @@ Cada archivo `CSV` será analizado en una rama independiente, la cual llevará e
 
 Ambos podrán solicitar ayuda entre sí en cualquier momento para aclarar o resolver dudas.
 
-**Importante:** En cada rama se incluye un notebook correspondiente en la carpeta `resources`, elaborado inicialmente por el equipo de matemáticas como apoyo.
+**Importante:** En cada rama se incluye un notebook correspondiente en la carpeta `resources`, elaborado inicialmente por el equipo de matemáticas como apoyo. Es necesario crear un nuevo notebook para el desarrollo del proyecto, documentando cada paso con comentarios claros en celdas de tipo Markdown.
 
 ## Integrantes.
 A continuación se indican los integrantes que participaron en la limpieza de cada archivo CSV:
