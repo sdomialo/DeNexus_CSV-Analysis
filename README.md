@@ -11,7 +11,7 @@ Este proyecto se centra en la limpieza de archivos CSV, utilizando Jupyter Noteb
 
 Cada archivo `CSV` será analizado en una rama independiente, la cual llevará el nombre del archivo correspondiente. El proceso de trabajo será el siguiente:
 
-1. El especialista de `ML` analizará el archivo `CSV` en su respectiva rama.
+1. El especialista de ML analizará el archivo `CSV` en su respectiva rama.
 2. Al finalizar, notificará al encargado de matemáticas de que el análisis está listo para revisión.
 3. El encargado de matemáticas revisará el análisis, realizará las correcciones si es necesario, y notificará al especialista de `ML` sobre los cambios realizados y las cosas que deberá de hacer posteriormente.
 
