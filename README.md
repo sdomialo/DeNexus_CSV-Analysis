@@ -1,32 +1,26 @@
-# DeNexus: Limpieza de CSVs.
-
-Este proyecto se centra en la limpieza de archivos CSV, utilizando Jupyter Notebooks (.ipynb) para documentar y ejecutar el proceso en cada rama del repositorio. Cada notebook es nombrado en mayúsculas con la convención `NOMBRE_DEL_CSV_clean`, donde `NOMBRE_DEL_CSV` corresponde al archivo original.
-
-## Estructura del Proyecto.
-
-1. **Entrada de Datos**: Los archivos CSV de entrada están organizados en la carpeta `data`.
-2. **Salida de Datos**: Los archivos resultantes de la limpieza se almacenan en la misma carpeta `data`, con el sufijo `_clean` añadido al nombre original.
-
-## Organización.
-
-Cada archivo `CSV` será analizado en una rama independiente, la cual llevará el nombre del archivo correspondiente. El proceso de trabajo será el siguiente:
-
-1. El especialista de `ML` analizará el archivo `CSV` en su respectiva rama.
-2. Al finalizar, notificará al encargado de matemáticas de que el análisis está listo para revisión.
-3. El encargado de matemáticas revisará el análisis, realizará las correcciones si es necesario, y notificará al especialista de `ML` sobre los cambios realizados y las cosas que deberá de hacer posteriormente.
-
-Ambos podrán solicitar ayuda entre sí en cualquier momento para aclarar o resolver dudas.
-
+# CISSM Cleaning.
 ## Integrantes.
-A continuación se indican los integrantes que participaron en la limpieza de cada archivo CSV:
+- Equipo de Matemáticas: Nacho Sánchez y María González.
+- Equipo de Machine Learning: 
 
-1. **CISSM.csv**: 
-2. **CYBER INCIDENTS MASTER.csv**: 
-3. **EUROREPO.csv**: 
-4. **HACKMAGEDDON.csv**: 
-5. **ICSSTRIVE.csv**: 
-6. **KONBRIEFING.csv**: 
-7. **TISAFE.csv**: 
-8. **WATERFALL.csv**: 
+## Información.
+1. **Event Description**: Descripción textual del evento.
+2. **Event Date**: Fecha del evento.
+3. **Actor**: Nombre del actor involucrado.
+4. **Actor Type**: Categoría que clasifica al tipo de actor involucrado en el incidente.
+5. **Event Type**: Tipo de evento que ocurrió.
+6. **Organization**: Organización involucrada en el evento.
+7. **Event Subtype**: Subcategoría del tipo de evento.
+8. **Motive**: Motivo del evento.
+9. **Event Source**: Fuente de información sobre el evento.
+10. **Country**: País donde ocurrió el evento.
+11. **Industry**: Industria relacionada con el evento. Viene representado numéricamente por **Industry Code**.
+12. **Industry Code**: Código de la industria correspondiente.
+13. **Dnx Id**: Identificador único para cada evento.
+14. **Date Uploaded**: Fecha de carga de los datos. Considerada irrelevante para el análisis y eliminada.
 
-Cada integrante fue responsable de la limpieza de su respectivo archivo, documentando el proceso en un notebook específico.
+## Notas de la limpieza.
+Esto son algunas aclaraciones sobre los cambios grandes que hizo el equipo de matemáticas.
+- Eliminación de Columnas Irrelevantes: Se eliminaron **Event Date**, **Country**, y **Date Uploaded** para simplificar el dataset y enfocarse en la información clave para el análisis.
+- Transformación de Variables Temporales: La fecha del evento original fue descompuesta en tres columnas (**Year**, **Month**, **Day**) para hacer más sencillo el análisis temporal.
+- Columnas Dummy de Continentes: Originalmente, los eventos estaban clasificados por país en la columna **Country**. Sin embargo, dado que algunos eventos abarcan varios países, hemos simplificado esta información creando variables dummy para cada continente. Estas variables son columnas binarias (0 o 1), donde 1 indica que el evento está asociado a un continente específico y 0 indica que no lo está. Las columnas dummy incluyen: Africa, Asia, Australia, Europe, North America, y South America. Esto permite un análisis regional más claro sin detallar cada país. Finalmente, se elimina la columna **Country**.
