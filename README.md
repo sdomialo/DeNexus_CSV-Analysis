@@ -32,3 +32,26 @@ A continuación se indican los integrantes que participaron en la limpieza de ca
 8. **WATERFALL.csv**: 
 
 Cada integrante fue responsable de la limpieza de su respectivo archivo, documentando el proceso en un notebook específico.
+
+## Metodología
+Para el desarrollo de este proyecto, utilizaremos la metodología CRISP-DM (Cross-Industry Standard Process for Data Mining), que guiará nuestro enfoque en la limpieza de datos y el análisis. La metodología se compone de las siguientes fases:
+
+1. **Comprensión del Negocio**:
+Definir los objetivos del proyecto y los requisitos desde la perspectiva del negocio, asegurando que la limpieza de datos esté alineada con las metas de la organización.
+
+2. **Comprensión de los Datos**:
+Familiarizarse con los datos en los archivos CSV, identificar problemas potenciales y realizar un análisis inicial para obtener una visión general de los datos disponibles.
+
+3. **Preparación de los Datos**:
+Limpiar, transformar y estructurar los datos para que sean aptos para el análisis. Esta fase incluye la estandarización de formatos, la gestión de valores ausentes y la eliminación de duplicados.
+
+4. **Modelado**:
+(Opcional según el alcance del proyecto) Seleccionar y aplicar técnicas de modelado adecuadas si es necesario para el análisis exploratorio, asegurando que los datos estén en el formato requerido.
+
+5. **Evaluación**:
+Revisar los resultados del proceso de limpieza para verificar si cumplen con los objetivos definidos en la fase de comprensión del negocio. Esta evaluación asegura que los datos resultantes sean adecuados para futuros análisis o aplicaciones.
+
+6. **Despliegue**:
+Implementar los resultados del análisis o la limpieza en el entorno productivo, o generar un informe final documentando el proceso y los resultados para futuras referencias.
+
+
