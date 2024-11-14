@@ -1,32 +1,27 @@
-# DeNexus: Limpieza de CSVs.
-
-Este proyecto se centra en la limpieza de archivos CSV, utilizando Jupyter Notebooks (.ipynb) para documentar y ejecutar el proceso en cada rama del repositorio. Cada notebook es nombrado en mayúsculas con la convención `NOMBRE_DEL_CSV_clean`, donde `NOMBRE_DEL_CSV` corresponde al archivo original.
-
-## Estructura del Proyecto.
-
-1. **Entrada de Datos**: Los archivos CSV de entrada están organizados en la carpeta `data`.
-2. **Salida de Datos**: Los archivos resultantes de la limpieza se almacenan en la misma carpeta `data`, con el sufijo `_clean` añadido al nombre original.
-
-## Organización.
-
-Cada archivo `CSV` será analizado en una rama independiente, la cual llevará el nombre del archivo correspondiente. El proceso de trabajo será el siguiente:
-
-1. El especialista de `ML` analizará el archivo `CSV` en su respectiva rama.
-2. Al finalizar, notificará al encargado de matemáticas de que el análisis está listo para revisión.
-3. El encargado de matemáticas revisará el análisis, realizará las correcciones si es necesario, y notificará al especialista de `ML` sobre los cambios realizados y las cosas que deberá de hacer posteriormente.
-
-Ambos podrán solicitar ayuda entre sí en cualquier momento para aclarar o resolver dudas.
-
+# Icsstrive Cleaning.
 ## Integrantes.
-A continuación se indican los integrantes que participaron en la limpieza de cada archivo CSV:
+- Equipo de Matemáticas: Frank Llonch y Lucia Mielgo.
+- Equipo de Machine Learning:
 
-1. **CISSM.csv**: 
-2. **CYBER INCIDENTS MASTER.csv**: 
-3. **EUROREPO.csv**: 
-4. **HACKMAGEDDON.csv**: 
-5. **ICSSTRIVE.csv**: 
-6. **KONBRIEFING.csv**: 
-7. **TISAFE.csv**: 
-8. **WATERFALL.csv**: 
+## Información.
+1. **Description**: Una breve descripción del incidente de ciberseguridad. Por ejemplo, puede incluir detalles sobre cómo ocurrió el ataque o qué sistemas fueron afectados.
 
-Cada integrante fue responsable de la limpieza de su respectivo archivo, documentando el proceso en un notebook específico.
+2. **Date**: La fecha en que ocurrió o se descubrió el incidente. Esto ayuda a comprender la línea de tiempo del ataque y a analizar tendencias.
+
+3. **Locations**: Una lista de las ubicaciones geográficas afectadas por el incidente, generalmente representadas por países o regiones. Esto ayuda a identificar las áreas objetivo del ataque.
+
+4. **Estimated cost**: El impacto financiero estimado del ataque, que puede incluir pérdidas financieras directas, costos de recuperación o rescates pagados.
+
+5. **Victims**: Detalles sobre las víctimas del ataque, típicamente organizaciones o empresas afectadas. Esta columna a menudo proporciona enlaces a las páginas principales de las víctimas.
+
+6. **Type of malware**: El tipo de malware utilizado en el ataque, si se identifica.
+
+7. **Threat source**: La fuente o el actor detrás de la amenaza, como un grupo de hackers o un actor patrocinado por un estado.
+
+8. **Industries**: Las industrias afectadas por el ataque, como automotriz, manufactura, gobierno, etc. Esto ayuda a identificar los sectores atacados.
+
+9. **Impacts**: Los tipos de impactos derivados del ataque, como la interrupción de operaciones de TI, OT (tecnología operativa) o problemas de privacidad (exfiltración de datos).
+
+10. **References**: Referencias adicionales al incidente, que pueden incluir enlaces a artículos de noticias o informes más detallados sobre el incidente.
+
+11. **Data source link url**: El enlace a la fuente principal de información sobre el incidente, típicamente un informe o artículo en un sitio web relevante.
