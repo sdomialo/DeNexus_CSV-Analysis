@@ -1,7 +1,7 @@
 # CISSM Cleaning.
 ## Integrantes.
 - Equipo de Matemáticas: Nacho Sánchez y María González.
-- Equipo de Machine Learning: 
+- Equipo de Machine Learning: Guillermo Hita.
 
 ## Información.
 1. **Event Description**: Descripción textual del evento.
