@@ -1,7 +1,7 @@
 # Konbriefing Cleaning.
 ## Integrantes.
 - Equipo de Matemáticas: Lucia Cantos y María González.
-- Equipo de Machine Learning:
+- Equipo de Machine Learning: Sara Domínguez.
 ## Información.
 - **Date**: Fecha del ataque (aunque algunos valores están incompletos).
 - **Title**: Título del incidente.
