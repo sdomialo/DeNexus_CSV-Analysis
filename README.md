@@ -1,7 +1,7 @@
 # Cyber Incidents Master Cleaning.
 ## Integrantes.
 - Equipo de Matemáticas: Alejandro Serrano y María González.
-- Equipo de Machine Learning:
+- Equipo de Machine Learning: Ignacio Herrero.
 
 ## Información.
 1. **Description**: Descripción del incidente.
