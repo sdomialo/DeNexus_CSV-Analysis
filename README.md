@@ -1,7 +1,7 @@
 # Eurorepo Cleaning.
 ## Integrantes.
 - Equipo de Matemáticas: Jacobo Calviño y María González.
-- Equipo de Machine Learning:
+- Equipo de Machine Learning: Daniel Bolaños.
 
 ## Información.
 1. **Name**: Nombre del incidente o evento relacionado.
