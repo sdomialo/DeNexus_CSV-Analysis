@@ -1,7 +1,7 @@
 # Tifase Cleaning.
 ## Integrantes.
-- Equipo de Matemáticas: Claudia López y Martina García.
-- Equipo de Machine Learning:
+- Equipo de Matemáticas: Claudia López, Martina García y María González.
+- Equipo de Machine Learning: Ouidad Hakimi.
 ## Información.
 1. **Date**: Fecha exacta en que ocurrió el ciberataque o se registró el incidente.
 2. **Year**: Año en que tuvo lugar el ataque, útil para analizar tendencias a lo largo del tiempo.
