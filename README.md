@@ -1,7 +1,7 @@
 # Waterfall Cleaning.
 ## Integrantes.
 - Equipo de Matemáticas: Alejandro Martínez y María González.
-- Equipo de Machine Learning:
+- Equipo de Machine Learning: Ouidad Hakimi.
 
 ## Información.
 1. **ID**: Identificador del incidente.
