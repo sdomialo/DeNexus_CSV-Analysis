@@ -1,7 +1,7 @@
 # Hackmageddon Cleaning.
 ## Integrantes.
 - Equipo de Matemáticas: Claudia López y María González.
-- Equipo de Machine Learning: 
+- Equipo de Machine Learning: Adrián González.
 ## Información.
 1. **Date Reported**: La fecha en que el incidente fue reportado por primera vez a la organización o autoridad competente. Puede diferir de la fecha en que ocurrió el ataque.   
 2. **Date Occurred**: La fecha en que ocurrió el incidente o ataque. En algunos casos, puede ser desconocida si el ataque no fue detectado inmediatamente.     
