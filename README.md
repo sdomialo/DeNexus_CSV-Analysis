@@ -1,7 +1,7 @@
 # Icsstrive Cleaning.
 ## Integrantes.
-- Equipo de Matemáticas: Frank Llonch y Lucia Mielgo.
-- Equipo de Machine Learning:
+- Equipo de Matemáticas: Frank Llonch, Lucia Mielgo y María González.
+- Equipo de Machine Learning: Alejandra Cervantes.
 
 ## Información.
 1. **Description**: Una breve descripción del incidente de ciberseguridad. Por ejemplo, puede incluir detalles sobre cómo ocurrió el ataque o qué sistemas fueron afectados.
