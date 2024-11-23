@@ -1,4 +1,4 @@
-# Tifase Cleaning.
+# Tisafe Cleaning.
 ## Integrantes.
 - Equipo de Matemáticas: Claudia López, Martina García y María González.
 - Equipo de Machine Learning: Ouidad Hakimi.
