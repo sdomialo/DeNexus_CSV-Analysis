@@ -23,7 +23,7 @@ Ambos podrán solicitar ayuda entre sí en cualquier momento para aclarar o reso
 A continuación se indican los integrantes que participaron en la limpieza de cada archivo CSV:
 
 1. **CISSM.csv**: Guillermo Hita, Gerardo Cuerva, Nacho Sánchez y María González.
-2. **CYBER INCIDENTS MASTER.csv**: Ignacio Herrero, Alejandro Serrano y María González.
+2. **CYBER INCIDENTS MASTER.csv**: Ignacio Herrero, Jose Maria Hernandez, Alejandro Serrano y María González.
 3. **EUROREPO.csv**: Daniel Bolaños, Jacobo Calviño y María González.
 4. **HACKMAGEDDON.csv**: Adrián González, Claudia López y María González.
 5. **ICSSTRIVE.csv**: Alejandra Cervantes, Sara Domínguez, Frank Llonch, Jose Antonio Sánchez y María González.
