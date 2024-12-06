@@ -22,14 +22,14 @@ Ambos podrán solicitar ayuda entre sí en cualquier momento para aclarar o reso
 ## Integrantes.
 A continuación se indican los integrantes que participaron en la limpieza de cada archivo CSV:
 
-1. **CISSM.csv**: Guillermo Hita, Gerardo Cuerva, Nacho Sánchez y María González.
-2. **CYBER INCIDENTS MASTER.csv**: Ignacio Herrero, Jose Maria Hernandez, Alejandro Serrano y María González.
-3. **EUROREPO.csv**: Daniel Bolaños, Jacobo Calviño y María González.
-4. **HACKMAGEDDON.csv**: Adrián González, Claudia López y María González.
-5. **ICSSTRIVE.csv**: Alejandra Cervantes, Sara Domínguez, Frank Llonch, Jose Antonio Sánchez y María González.
-6. **KONBRIEFING.csv**: Emily Aguilar, María Isabel Serrano, Lucia Cantos y María González.
-7. **TISAFE.csv**: Ouidad Hakimi, Andrea Carmona, Claudia López, Martina García y María González.
-8. **WATERFALL.csv**: Ouidad Hakimi, Noa Baoting, Alejandro Martínez y María González.
+1. **CISSM.csv**: Guillermo Hita, Gerardo Cuerva, Nacho Sánchez.
+2. **CYBER INCIDENTS MASTER.csv**: Ouidad Hakimi, Andrea Carmona, Alejandro Serrano.
+3. **EUROREPO.csv**: Daniel Bolaños, Jacobo Calviño.
+4. **HACKMAGEDDON.csv**: Adrián González, Claudia López.
+5. **ICSSTRIVE.csv**: Alejandra Cervantes, Sara Domínguez.
+6. **KONBRIEFING.csv**: Emily Aguilar, María Isabel Serrano, Lucia Cantos.
+7. **TISAFE.csv**: Ignacio Herrero, Jose Maria Hernandez, Claudia López, Martina García.
+8. **WATERFALL.csv**: Ouidad Hakimi, Noa Baoting, Alejandro Martínez.
 
 Cada integrante fue responsable de la limpieza de su respectivo archivo, documentando el proceso en un notebook específico.
 
